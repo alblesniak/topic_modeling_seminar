@@ -1,0 +1,6 @@
+- coherence
+- loglikelihood
+- perplexity
+- alpha beta
+- final rho
+- 50 first keywords
